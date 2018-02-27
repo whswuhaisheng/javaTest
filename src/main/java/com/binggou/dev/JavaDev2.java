@@ -8,6 +8,6 @@ package com.binggou.dev;
  */
 public class JavaDev2 {
     public static void main(String[] args) {
-        System.out.println("开发分支下的武海升提交代码");
+        System.out.println("开发分支下的武海升提交代码...");
     }
 }
