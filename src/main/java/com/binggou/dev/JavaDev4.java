@@ -15,4 +15,7 @@ public class JavaDev4 {
     public static void push0() {
         System.out.println("武海升第一次写了代码...");
     }
+    public static void push1() {
+        System.out.println("武海升第2次写了代码...");
+    }
 }
